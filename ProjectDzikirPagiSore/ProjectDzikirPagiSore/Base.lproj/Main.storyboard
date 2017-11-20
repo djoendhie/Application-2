@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="Alignment constraints to the first baseline" minToolsVersion="6.0"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="cTN-Pc-XlU">
+            <objects>
+                <viewController id="28l-Yy-muM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="213-Tf-I64">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Jepretan Layar 2017-10-27 pada 13.02.25" translatesAutoresizingMaskIntoConstraints="NO" id="lUa-k9-ILE">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="CQE-FV-bJM"/>
+                                    <constraint firstAttribute="width" secondItem="lUa-k9-ILE" secondAttribute="height" multiplier="375:667" id="ja6-qD-tVA"/>
+                                    <constraint firstAttribute="height" constant="667" id="uZM-ai-04t"/>
+                                </constraints>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="9LF-LR-F9P">
+                                <rect key="frame" x="16" y="82" width="343" height="565"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Dzikir Pagi Dan Petang
+
+        Dari Anas bin Malik رضي الله عنه ia berkata: “Rasulullah صلي الله عليه وسلم bersabda: ‘Aku duduk bersama orang-orang yang berdzikir kepada Allah dari mulai shalat Shubuh sampai terbit matahari lebih aku sukai dari memerdekakan empat orang budak dari anak Isma’il. Dan aku duduk bersama orang-orang yang berdzikir kepada Allah dari mulai shalat ‘Ashar sampai terbenam matahari lebih aku cintai dari memerdekakan empat orang budak.’” (HR. Abu Dawud no. 3667, lihat Shahiih Abi Dawud 11/698 no. 3114 – MisykaatulMashaabiih no. 970, hasan)
+ Imam Ibnu Qayyim رحمه الله berkata:
+“Waktunya antara Shubuh hingga terbit matahari, dan antara ‘Ashar hingga terbenam matahari.”
+Dalil dari al-Qur-an tentang Dzikir Pagi dan Petang.
+
+يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْراً كَثِيراً. وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً
+
+“Hai orang-orang yang beriman, berdzikirlah (dengan menyebut Nama) Allah dzikir yang sebanyak-banyaknya. Dan bertasbihlah kepada-Nya di waktu pagi dan petang.” (QS. Al-Ahzab: 41-42).
+Al-Jauhari (seorang ahli bahasa Arab) berkata: (أَصِيلاً) artinya, waktu antara ‘Ashar sampai Maghrib.”
+
+فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَاسْتَغْفِرْ لِذَنبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِالْعَشِيِّ وَالْإِبْكَارِ
+
+“Maka bersabarlah kamu, karena sesungguhnya janji Allah itu benar, dan mohonlah ampunan untuk dosamu dan bertasbihlah seraya memuji Rabb-mu pada waktu petang dan pagi.” (QS. Al-Mu’min: 55)
+(َالْإِبْكَار) artinya, awal siang hari, sedangkan (الْعَشِيُّ) artinya, akhir siang hari.
+Allah سبحانه و تعالي berfirman:
+
+فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
+
+“Maka bersabarlah kamu terhadap apa yang mereka katakan dan bertasbihlah sambil memuji Rabb-mu sebelum terbit matahari dan sebelum terbenam(nya).” (QS. Qaaf: 39).
+ Ini merupakan penafsiran dari apa yang disebutkan dalam beberapa hadits Rasulullah صلي الله عليه وسلم, bahwa siapa yang mengucapkan begini dan begitu pada pagi dan petang hari…, maksudnya adalah sebelum terbit matahari dan sebelum terbenamnya, yaitu memulainya sesudah shalat Shubuh dan sesudahnya.
+(Lihat penjelasan Imam Ibnul Qayyim dalam Shahiih al-Waabilish Shayyib hal. 165-166)</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="NTM-lW-Wdn">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <items>
+                                    <navigationItem title="Pembahasan" id="9cQ-4L-zyd">
+                                        <barButtonItem key="rightBarButtonItem" style="plain" id="1Ri-nq-ZpT">
+                                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="2Qy-8G-rXq">
+                                                <rect key="frame" x="325" y="7" width="34" height="30"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                <state key="normal" title="Back"/>
+                                                <connections>
+                                                    <segue destination="BYZ-38-t0r" kind="modal" id="Ld8-LT-DJj"/>
+                                                </connections>
+                                            </button>
+                                        </barButtonItem>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="lUa-k9-ILE" firstAttribute="bottom" secondItem="aWc-oI-gsA" secondAttribute="bottom" id="6bx-0l-b0H"/>
+                            <constraint firstItem="lUa-k9-ILE" firstAttribute="trailing" secondItem="aWc-oI-gsA" secondAttribute="trailing" id="7ZE-ta-Qsn"/>
+                            <constraint firstItem="lUa-k9-ILE" firstAttribute="top" secondItem="213-Tf-I64" secondAttribute="top" id="kYa-MS-nXV"/>
+                            <constraint firstItem="lUa-k9-ILE" firstAttribute="leading" secondItem="aWc-oI-gsA" secondAttribute="leading" id="lgh-17-ktq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="aWc-oI-gsA"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qa1-06-PoJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1044" y="115.59220389805098"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ProjectDzikirPagiSore" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Jepretan Layar 2017-10-27 pada 13.00.09" translatesAutoresizingMaskIntoConstraints="NO" id="XW7-I7-bl2">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="667" id="Cns-fT-ZeK"/>
+                                    <constraint firstAttribute="width" secondItem="XW7-I7-bl2" secondAttribute="height" multiplier="375:667" id="h41-2V-UcM"/>
+                                    <constraint firstAttribute="width" constant="375" id="sIF-gt-vZq"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lfA-we-Bt4">
+                                <rect key="frame" x="16" y="379" width="92" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Dzikir Petang">
+                                    <color key="titleColor" red="0.9610600967372952" green="1" blue="0.97060207323833358" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="2Py-LE-wso" kind="modal" id="3Sz-lo-ngh"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tYk-v5-Ewt">
+                                <rect key="frame" x="6" y="423" width="160" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Dzikir Ba`da Sholah">
+                                    <color key="titleColor" red="0.91495581164849105" green="1" blue="0.98383544580041993" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="ldb-CT-baW" kind="modal" id="frD-5F-oJ5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bwu-EQ-cCU">
+                                <rect key="frame" x="6" y="331" width="92" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Dzikir Pagi">
+                                    <color key="titleColor" red="0.91752741202716648" green="0.9704722848355759" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="EKI-Zv-6Z1" kind="modal" id="Vtx-BF-z8b"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vQD-tE-QIe">
+                                <rect key="frame" x="16" y="477" width="92" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Pembahasan">
+                                    <color key="titleColor" red="0.95669883776993647" green="0.96336766554244002" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="28l-Yy-muM" kind="modal" id="GKD-54-NIX"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="96f-uZ-5cb">
+                                <rect key="frame" x="-7" y="519" width="92" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="About ">
+                                    <color key="titleColor" red="0.95669883779999998" green="0.96336766549999997" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Tel-Ws-FFZ" kind="modal" id="aWG-Mr-gxx"/>
+                                </connections>
+                            </button>
+                            <navigationBar contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="sld-zY-BZ8">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                                <color key="barTintColor" red="0.91785627603530884" green="0.79903304576873779" blue="0.46261733770370483" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <items>
+                                    <navigationItem title="Dzikir Kita" id="Vyy-Kk-twC"/>
+                                </items>
+                            </navigationBar>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="XW7-I7-bl2" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="HX5-H8-Hk8"/>
+                            <constraint firstItem="XW7-I7-bl2" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="W1Y-wy-PHf"/>
+                            <constraint firstItem="XW7-I7-bl2" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="cpH-3T-404"/>
+                            <constraint firstItem="XW7-I7-bl2" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="hyK-cV-yrg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-98.400000000000006" y="117.39130434782609"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="cJs-fr-toe">
+            <objects>
+                <viewController id="2Py-LE-wso" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ztY-lC-jB1">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="2" translatesAutoresizingMaskIntoConstraints="NO" id="0zF-lq-9yS">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="E4y-M6-c4K"/>
+                                    <constraint firstAttribute="width" secondItem="0zF-lq-9yS" secondAttribute="height" multiplier="375:667" id="Rzf-7u-50o"/>
+                                    <constraint firstAttribute="height" constant="667" id="tEJ-mJ-bwH"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dzikir Sore" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ac3-Fa-VPj">
+                                <rect key="frame" x="16" y="215" width="343" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.90352500001517466" green="1" blue="0.97692337022831521" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="l5z-CC-Qob">
+                                <rect key="frame" x="16" y="281" width="343" height="181"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْراً كَثِيراً. وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً
+
+
+“Hai orang-orang yang beriman, berdzikirlah (dengan menyebut Nama) Allah dzikir yang sebanyak-banyaknya. Dan bertasbihlah kepada-Nya di waktu pagi dan petang.” (QS. Al-Ahzab: 41-42).
+
+ </string>
+                                <color key="textColor" red="0.94558153594380656" green="1" blue="0.97195567297160967" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qOG-HB-yco">
+                                <rect key="frame" x="130" y="470" width="115" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Start">
+                                    <color key="titleColor" red="0.94139825290000001" green="1" blue="0.99667726550000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="PH5-n5-bit" kind="modal" id="oo9-iO-hGv"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NJd-NQ-ndQ">
+                                <rect key="frame" x="16" y="20" width="59" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="Cib-2x-TiR"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="0zF-lq-9yS" firstAttribute="bottom" secondItem="Glb-VM-jYY" secondAttribute="bottom" id="6Ro-am-21Y"/>
+                            <constraint firstItem="0zF-lq-9yS" firstAttribute="leading" secondItem="Glb-VM-jYY" secondAttribute="leading" id="NC4-FQ-Sgv"/>
+                            <constraint firstItem="0zF-lq-9yS" firstAttribute="trailing" secondItem="Glb-VM-jYY" secondAttribute="trailing" id="waY-Ki-HSk"/>
+                            <constraint firstItem="0zF-lq-9yS" firstAttribute="top" secondItem="ztY-lC-jB1" secondAttribute="top" id="ymk-jw-3BR"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Glb-VM-jYY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="8CT-4t-dim" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="760.79999999999995" y="116.49175412293854"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="16J-OY-n3Z">
+            <objects>
+                <viewController id="PH5-n5-bit" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="C1C-ss-Jbk">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sore" translatesAutoresizingMaskIntoConstraints="NO" id="NGv-Fl-WbE">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="NGv-Fl-WbE" secondAttribute="height" multiplier="375:667" id="1Eu-yZ-EzT"/>
+                                    <constraint firstAttribute="height" constant="667" id="8Za-BQ-CdB"/>
+                                    <constraint firstAttribute="width" constant="375" id="WVX-Gr-UOM"/>
+                                </constraints>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6bp-YG-fgY">
+                                <rect key="frame" x="16" y="51" width="343" height="596"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text"> أَعُوذُ بِاللَّهِ مِنْ الشَّيْطَانِ الرَّجِيمِ
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+“Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+-Ayat Kursi (Al-Baqoroh: 255) (Dibaca 1x)
+
+
+-Membaca Surat Al-Ikhlas (Dibaca 3x)
+
+
+-Membaca Surat Al-Falaq (Dibaca 3x)
+
+
+-Membaca Surat An-Naas (Dibaca 3x)
+
+
+أَمْسَيْنَا وَأَمْسَى الْمُلْكُ للهِ، وَالْحَمْدُ للهِ، لَا إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أَسْأَلُكَ خَيْرَ مَا فِي هَذِهِ اللَّيْلَةِ وَخَيْرَ مَا بَعْدَهَا، وَأَعُوذُبِكَ مِنْ شَرِّ مَا فِي هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا، رَبِّ أَعُوذُبِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ، رَبِّ أَعُوذُبِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ
+
+
+“Kami telah memasuki waktu sore dan kerajaan hanya milik Allah, segala puji hanya milik Allah. Tidak ada Ilah yang berhak diibadahi dengan benar kecuali Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia-lah Yang Mahakuasa atas segala sesuatu. Wahai Rabb, aku mohon kepada-Mu kebaikan di malam ini dan kebaikan sesudahnya. Aku berlindung kepada-Mu dari kejahatan malam ini dan kejahatan sesudahnya. Wahai Rabb, aku berlindung kepada-Mu dari kemalasan dan kejelekan di hari tua. Wahai Rabb, aku berlindung kepada-Mu dari siksaan di Neraka dan siksaan di kubur.”(Dibaca Sore 1x)
+
+
+ اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا،وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ، وَإِلَيْكَ الْمَصِيْرُ
+
+
+“Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu sore dan dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi. Dengan rahmat dan kehendak-Mu kami hidup dan dengan rahmat dan kehendak-Mu kami mati. Dan kepada-Mu tempat kembali (bagi semua makhluk).” (Dibaca sore 1x)
+
+
+ اَللَّهُمَّ أَنْتَ رَبِّيْ لاَ إِلَـهَ إِلاَّ أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ
+
+
+“Ya Allah, Engkau adalah Rabb-ku, tidak ada Ilah (yang berhak diibadahi dengan benar) kecuali Engkau, Engkau-lah yang menciptakanku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan (apa) yang kuperbuat. Aku mengakui nikmat-Mu (yang diberikan) kepadaku dan aku mengakui dosaku, oleh karena itu, ampunilah aku. Sesungguhnya tidak ada yang dapat mengampuni dosa kecuali Engkau.” (Dibaca pagi dan sore 1x)
+
+
+ اَللَّهُمَّ عَافِنِيْ فِيْ بَدَنِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ سَمْعِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ بَصَرِيْ، لاَ إِلَـهَ إِلاَّ أَنْتَ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لاَ إِلَـهَ إِلاَّ أَنْتَ
+
+
+“Ya Allah, selamatkanlah tubuhku (dari penyakit dan dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah pendengaranku (dari penyakit dan maksiat atau dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah penglihatanku, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau.” (Dibaca pagi dan sore 3x)
+
+
+ اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَاْلآخِرَةِ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِيْنِيْ وَدُنْيَايَ وَأَهْلِيْ وَمَالِيْ اللَّهُمَّ اسْتُرْ عَوْرَاتِى وَآمِنْ رَوْعَاتِى. اَللَّهُمَّ احْفَظْنِيْ مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِيْ، وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِيْ، وَمِنْ فَوْقِيْ، وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ
+
+
+“Ya Allah, sesungguhnya aku memohon kebajikan dan keselamatan di dunia dan akhirat. Ya Allah, sesungguhnya aku memohon kebajikan dan keselamatan dalam agama, dunia, keluarga dan hartaku. Ya Allah, tutupilah auratku (aib dan sesuatu yang tidak layak dilihat orang) dan tentramkan-lah aku dari rasa takut. Ya Allah, peliharalah aku dari depan, belakang, kanan, kiri dan dari atasku. Aku berlindung dengan kebesaran-Mu, agar aku tidak disambar dari bawahku (aku berlindung dari dibenamkan ke dalam bumi).”(Dibaca pagi dan sore 1x)
+
+
+ اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَاْلأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوْءًا أَوْ أَجُرُّهُ إِلَى مُسْلِمٍ
+
+
+“Ya Allah Yang Mahamengetahui yang ghaib dan yang nyata, wahai Rabb Pencipta langit dan bumi, Rabb atas segala sesuatu dan Yang Merajainya. Aku bersaksi bahwa tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Aku berlindung kepada-Mu dari kejahatan diriku, syaitan dan ajakannya menyekutukan Allah (aku berlindung kepada-Mu) dari berbuat kejelekan atas diriku atau mendorong seorang muslim kepadanya.” (Dibaca pagi dan sore 1x)
+
+
+ بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي اْلأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيْعُ الْعَلِيْمُ
+
+
+“Dengan Menyebut Nama Allah, yang dengan Nama-Nya tidak ada satupun yang membahayakan, baik di bumi maupun dilangit. Dia-lah Yang Mahamendengar dan Maha mengetahui.” (Dibaca pagi dan sore 3x)
+
+
+ رَضِيْتُ بِاللهِ رَبًّا، وَبِاْلإِسْلاَمِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا
+
+
+“Aku rela (ridha) Allah sebagai Rabb-ku (untukku dan orang lain), Islam sebagai agamaku dan Muhammad صلي الله عليه وسلم sebagai Nabiku (yang diutus oleh Allah).” (Dibaca pagi dan sore 3x)
+
+
+ يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ
+
+
+“Wahai Rabb Yang Maha hidup, Wahai Rabb Yang Maha berdiri sendiri (tidak butuh segala sesuatu) dengan rahmat-Mu aku meminta pertolongan, perbaikilah segala urusanku dan jangan diserahkan (urusanku) kepada diriku sendiri meskipun hanya sekejap mata (tanpa mendapat pertolongan dari-Mu).” (Dibaca pagi dan sore 1x)
+
+
+ أَمْسَيْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ
+
+
+“Di waktu sore kami berada diatas fitrah agama Islam, kalimat ikhlas, agama Nabi kita Muhammad صلي الله عليه وسلم dan agama ayah kami, Ibrahim, yang berdiri di atas jalan yang lurus, muslim dan tidak tergolong orang-orang yang musyrik.”
+
+
+ لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ.
+
+
+“Tidak ada Ilah yang berhak diibadahi dengan benar selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dan Dia Mahakuasa atas segala sesuatu.” (Dibaca 10x [15] atau dibaca 1x pada pagi dan sore)
+
+
+ لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ.
+
+
+“Tidak ada Ilah yang berhak diibadahi dengan benar selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dan Dia Maha kuasa atas segala sesuatu.” (Dibaca setiap hari 100x)
+
+
+ سُبْحَانَ اللهِ وَبِحَمْدِهِ
+
+
+“Mahasuci Allah, aku memuji-Nya.” (Dibaca pagi dan sore 100x)
+
+ أَسْتَغْفِرُ اللهَ وَأَتُوْبُ إِلَيْهِ
+
+
+“Aku memohon ampunan kepada Allah dan bertaubat kepada-Nya.” (Dibaca setiap hari 100x)
+
+ أَعُوْذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ
+
+
+“Aku berlindung dengan kalimat-kalimat Allah yang sempurna, dari kejahatan sesuatu yang diciptakan-Nya.” (Dibaca sore 3x)
+
+
+ </string>
+                                <color key="textColor" red="0.96109860776665634" green="0.9852397830031665" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nPi-rd-KXW">
+                                <rect key="frame" x="16" y="20" width="47" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="2Py-LE-wso" kind="modal" id="vbH-OS-PCN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Eph-qc-i6b">
+                                <rect key="frame" x="313" y="20" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Return">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="qht-b8-Pt2"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="NGv-Fl-WbE" firstAttribute="bottom" secondItem="hiu-rC-ZZ6" secondAttribute="bottom" id="1FB-OB-Hc2"/>
+                            <constraint firstItem="NGv-Fl-WbE" firstAttribute="top" secondItem="C1C-ss-Jbk" secondAttribute="top" id="PU8-vj-pby"/>
+                            <constraint firstItem="NGv-Fl-WbE" firstAttribute="trailing" secondItem="hiu-rC-ZZ6" secondAttribute="trailing" id="c4b-VX-sf3"/>
+                            <constraint firstItem="NGv-Fl-WbE" firstAttribute="leading" secondItem="hiu-rC-ZZ6" secondAttribute="leading" id="pGr-gB-hbr"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hiu-rC-ZZ6"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6kt-kV-RwW" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1525.5999999999999" y="116.49175412293854"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="6Vr-W9-Bjw">
+            <objects>
+                <viewController id="Tel-Ws-FFZ" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="utr-lb-QBh">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nil" translatesAutoresizingMaskIntoConstraints="NO" id="PLn-xN-l18">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="LQf-jS-S16"/>
+                                    <constraint firstAttribute="width" secondItem="PLn-xN-l18" secondAttribute="height" multiplier="375:667" id="j50-br-apc"/>
+                                    <constraint firstAttribute="height" constant="667" id="ze6-Me-zID"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="nunchaku2" translatesAutoresizingMaskIntoConstraints="NO" id="Prq-PT-mxH">
+                                <rect key="frame" x="64" y="62" width="246" height="184"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Developer: Mihammad Ihsan Al-Jundi" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0fr-ab-4wc">
+                                <rect key="frame" x="16" y="326" width="343" height="38"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="1" blue="0.97671364954506057" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="TTL: Payakumbuh,18 May 1999" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H0Y-Tj-8Mq">
+                                <rect key="frame" x="16" y="418" width="343" height="38"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="1" blue="0.97671364949999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="School: SMK IDN Madinatul Ilmi" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RHf-5u-KBt">
+                                <rect key="frame" x="16" y="372" width="343" height="38"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="1" blue="0.97671364949999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="FB: Muhammad Ihsan Al-Djoendhie" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FWq-WN-uax">
+                                <rect key="frame" x="16" y="464" width="343" height="38"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="1" blue="0.97671364949999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mj4-ip-vgW">
+                                <rect key="frame" x="16" y="20" width="59" height="39"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="jkE-QD-onM"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="PLn-xN-l18" firstAttribute="trailing" secondItem="hcj-Vk-rd3" secondAttribute="trailing" id="6Zo-AS-qrm"/>
+                            <constraint firstItem="PLn-xN-l18" firstAttribute="top" secondItem="utr-lb-QBh" secondAttribute="top" id="kxt-sH-GqW"/>
+                            <constraint firstItem="PLn-xN-l18" firstAttribute="leading" secondItem="hcj-Vk-rd3" secondAttribute="leading" id="lE7-fR-vQe"/>
+                            <constraint firstItem="PLn-xN-l18" firstAttribute="bottom" secondItem="hcj-Vk-rd3" secondAttribute="bottom" id="mz0-4q-beG"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hcj-Vk-rd3"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3eP-e5-WHp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1044" y="922.48875562218893"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="0LY-hx-1g1">
+            <objects>
+                <viewController id="ldb-CT-baW" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="rzi-hq-a8M">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="kakbah" translatesAutoresizingMaskIntoConstraints="NO" id="qbO-bl-pZt">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="YKe-gu-vfM"/>
+                                    <constraint firstAttribute="height" constant="667" id="gXo-BO-cvX"/>
+                                    <constraint firstAttribute="width" secondItem="qbO-bl-pZt" secondAttribute="height" multiplier="375:667" id="xtm-MW-mYa"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dzikir Ba`da Solah" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mXq-3Z-TNK">
+                                <rect key="frame" x="24" y="0.0" width="343" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <color key="textColor" red="0.0" green="1" blue="0.87265988731622102" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="12" translatesAutoresizingMaskIntoConstraints="NO" id="diY-pm-Dxa">
+                                <rect key="frame" x="16" y="58" width="343" height="246"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5xf-G6-ML8">
+                                <rect key="frame" x="16" y="602" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.0" green="0.93025139791469336" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="NdO-eJ-laF"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LC5-z8-cdI">
+                                <rect key="frame" x="270" y="592" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Start">
+                                    <color key="titleColor" red="0.0" green="0.9534549605714453" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="vXx-9i-DPS" kind="modal" id="qRs-QF-iGz"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="qbO-bl-pZt" firstAttribute="bottom" secondItem="nCc-1S-oKO" secondAttribute="bottom" id="OI2-PL-K9r"/>
+                            <constraint firstItem="qbO-bl-pZt" firstAttribute="leading" secondItem="nCc-1S-oKO" secondAttribute="leading" id="TOQ-hq-j2i"/>
+                            <constraint firstItem="qbO-bl-pZt" firstAttribute="trailing" secondItem="nCc-1S-oKO" secondAttribute="trailing" id="w60-Vh-fQu"/>
+                            <constraint firstItem="qbO-bl-pZt" firstAttribute="top" secondItem="rzi-hq-a8M" secondAttribute="top" id="wbg-eD-mbx"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="nCc-1S-oKO"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qaC-jX-Ja5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-98.400000000000006" y="894.60269865067471"/>
+        </scene>
+        <!--Dzikir View Controller-->
+        <scene sceneID="iLB-KP-NXV">
+            <objects>
+                <viewController id="vXx-9i-DPS" customClass="DzikirViewController" customModule="ProjectDzikirPagiSore" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="AJe-7y-Gs1">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Subhanallah" translatesAutoresizingMaskIntoConstraints="NO" id="OHH-is-DWR">
+                                <rect key="frame" x="16" y="105" width="343" height="178"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="64Q-QZ-nTD">
+                                <rect key="frame" x="140" y="488" width="94" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <action selector="btnStepper:" destination="vXx-9i-DPS" eventType="valueChanged" id="X0C-EJ-GMK"/>
+                                </connections>
+                            </stepper>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ouD-zE-yv5">
+                                <rect key="frame" x="16" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="iOd-gf-e8Q"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1v2-tw-TWu">
+                                <rect key="frame" x="270" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="7hP-7v-WuJ" kind="modal" id="l9Q-6F-6VU"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P8y-9s-neq">
+                                <rect key="frame" x="122" y="307" width="130" height="136"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.019749841419084979" green="0.98903661826906053" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="lMF-v7-AUe"/>
+                    </view>
+                    <connections>
+                        <outlet property="labelNumber" destination="P8y-9s-neq" id="ZdG-98-Iju"/>
+                        <outlet property="labelStepper" destination="64Q-QZ-nTD" id="Zns-As-6FJ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9Mw-Bp-oOh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="760.79999999999995" y="894.60269865067471"/>
+        </scene>
+        <!--Dzikir2 View Controller-->
+        <scene sceneID="t5h-uH-HdP">
+            <objects>
+                <viewController id="7hP-7v-WuJ" customClass="Dzikir2ViewController" customModule="ProjectDzikirPagiSore" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vjW-35-j1S">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7hj-BQ-Z9a">
+                                <rect key="frame" x="122" y="312" width="130" height="136"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="qhN-FJ-6cu">
+                                <rect key="frame" x="140" y="485" width="94" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="1" green="0.084870875864447415" blue="0.67885693887421117" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <action selector="btnStepper2:" destination="7hP-7v-WuJ" eventType="valueChanged" id="zFK-Dw-gl7"/>
+                                    <action selector="btnStepper:" destination="vXx-9i-DPS" eventType="valueChanged" id="z6T-Ow-CyF"/>
+                                </connections>
+                            </stepper>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8uV-Km-YZj">
+                                <rect key="frame" x="16" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="vXx-9i-DPS" kind="modal" id="Wo2-eP-QFM"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="09s-1P-Zq5">
+                                <rect key="frame" x="286" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="PJG-Bp-RaW" kind="modal" id="Ilz-0R-7Dc"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Alhamdulillah" translatesAutoresizingMaskIntoConstraints="NO" id="4XE-dQ-74B">
+                                <rect key="frame" x="16" y="73" width="343" height="231"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.10949738702815193" blue="0.61114316212496678" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="ciE-8m-B2n"/>
+                    </view>
+                    <connections>
+                        <outlet property="labelNumber2" destination="7hj-BQ-Z9a" id="Ui3-MJ-wdz"/>
+                        <outlet property="labelStepper2" destination="qhN-FJ-6cu" id="7ek-IQ-IhQ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oP5-ZU-gm7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1525.5999999999999" y="894.60269865067471"/>
+        </scene>
+        <!--Dzikir3 View Controller-->
+        <scene sceneID="pHS-hT-RoV">
+            <objects>
+                <viewController id="PJG-Bp-RaW" customClass="Dzikir3ViewController" customModule="ProjectDzikirPagiSore" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="32g-mf-ZjB">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="AllahuAkbar" translatesAutoresizingMaskIntoConstraints="NO" id="6mU-7o-39O">
+                                <rect key="frame" x="16" y="86" width="343" height="194"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GIF-FU-3xl">
+                                <rect key="frame" x="16" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="7hP-7v-WuJ" kind="modal" id="cpm-Vz-gbQ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Rxk-Aa-knM">
+                                <rect key="frame" x="270" y="20" width="89" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Menu">
+                                    <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="vYm-Bt-tTP"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oN3-ip-CMY">
+                                <rect key="frame" x="122" y="316" width="130" height="136"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stepper opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" maximumValue="100" translatesAutoresizingMaskIntoConstraints="NO" id="4Sm-s5-8IT">
+                                <rect key="frame" x="140" y="460" width="94" height="29"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.72371989488601685" green="0.48165678977966309" blue="0.24168723821640015" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <action selector="btnStepper3:" destination="PJG-Bp-RaW" eventType="valueChanged" id="pnn-Sx-OfE"/>
+                                    <action selector="btnStepper:" destination="vXx-9i-DPS" eventType="valueChanged" id="h7X-G1-Lcf"/>
+                                </connections>
+                            </stepper>
+                        </subviews>
+                        <color key="backgroundColor" red="0.72371989488601685" green="0.48165678977966309" blue="0.24168723821640015" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="PXg-XH-5FX"/>
+                    </view>
+                    <connections>
+                        <outlet property="labelNumber3" destination="oN3-ip-CMY" id="Pr1-w5-0bW"/>
+                        <outlet property="labelStepper3" destination="4Sm-s5-8IT" id="wKH-En-FY4"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PDg-dy-OSC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2337" y="895"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="41h-Qw-Qvd">
+            <objects>
+                <viewController id="EKI-Zv-6Z1" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="p9d-4r-azE">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1" translatesAutoresizingMaskIntoConstraints="NO" id="WW7-ZJ-Hp9">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="WW7-ZJ-Hp9" secondAttribute="height" multiplier="375:667" id="71b-FW-GlM"/>
+                                    <constraint firstAttribute="height" constant="667" id="fQ2-EJ-Dsu"/>
+                                    <constraint firstAttribute="width" constant="375" id="uBr-Gf-ixH"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Dzikir Pagi" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IjR-iG-ELc">
+                                <rect key="frame" x="16" y="140" width="343" height="58"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="yFv-85-nTU">
+                                <rect key="frame" x="16" y="206" width="343" height="181"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْراً كَثِيراً. وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً
+
+
+“Hai orang-orang yang beriman, berdzikirlah (dengan menyebut Nama) Allah dzikir yang sebanyak-banyaknya. Dan bertasbihlah kepada-Nya di waktu pagi dan petang.” (QS. Al-Ahzab: 41-42).
+
+ </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ba6-q6-x6B">
+                                <rect key="frame" x="130" y="395" width="115" height="40"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Start">
+                                    <color key="titleColor" red="0.94139825291907409" green="1" blue="0.99667726548624369" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Qan-ai-f0S" kind="modal" id="Bzg-FR-y7D"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eth-RF-ML3">
+                                <rect key="frame" x="16" y="20" width="54" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="1mC-4a-iO0"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="WW7-ZJ-Hp9" firstAttribute="trailing" secondItem="hkU-wa-xEb" secondAttribute="trailing" id="1o6-ge-fHV"/>
+                            <constraint firstItem="WW7-ZJ-Hp9" firstAttribute="leading" secondItem="hkU-wa-xEb" secondAttribute="leading" id="eCO-EL-3oC"/>
+                            <constraint firstItem="WW7-ZJ-Hp9" firstAttribute="top" secondItem="p9d-4r-azE" secondAttribute="top" id="eO7-pL-IBK"/>
+                            <constraint firstItem="WW7-ZJ-Hp9" firstAttribute="bottom" secondItem="hkU-wa-xEb" secondAttribute="bottom" id="jP9-CU-Mfg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hkU-wa-xEb"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qr2-1g-715" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-98.400000000000006" y="-670.61469265367316"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="CXV-YH-3Wa">
+            <objects>
+                <viewController id="Qan-ai-f0S" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ocw-g2-Mp6">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pagi1" translatesAutoresizingMaskIntoConstraints="NO" id="Kk4-qj-cbQ">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Kk4-qj-cbQ" secondAttribute="height" multiplier="375:667" id="PlY-ow-w8c"/>
+                                    <constraint firstAttribute="height" constant="667" id="RaV-Kv-0yX"/>
+                                    <constraint firstAttribute="width" constant="375" id="Som-QV-pyV"/>
+                                </constraints>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="gNt-TK-bAK">
+                                <rect key="frame" x="16" y="133" width="343" height="434"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">أَعُوذُ بِاللَّهِ مِنْ الشَّيْطَانِ الرَّجِيمِ
+“Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.”
+
+
+
+-Ayat Kursi (Al-Baqoroh: 255) (Dibaca 1x)
+
+
+-Membaca Surat Al-Ikhlas (Dibaca 3x)
+
+
+-Membaca Surat Al-Falaq (Dibaca 3x)
+
+
+-Membaca Surat An-Naas (Dibaca 3x)
+</string>
+                                <color key="textColor" red="0.91198004931244014" green="0.98189162545568676" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1L2-Tn-hIC">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991068692649" green="1" blue="0.43609505504979351" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="VRx-hg-hlI" kind="modal" id="DxC-Dl-lVd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JvS-g7-nWc">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="EKI-Zv-6Z1" kind="modal" id="DlL-Zx-5Pd"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Kk4-qj-cbQ" firstAttribute="bottom" secondItem="g4h-MJ-2o4" secondAttribute="bottom" id="PPj-da-S7O"/>
+                            <constraint firstItem="Kk4-qj-cbQ" firstAttribute="top" secondItem="Ocw-g2-Mp6" secondAttribute="top" id="SpS-N9-Q3Y"/>
+                            <constraint firstItem="Kk4-qj-cbQ" firstAttribute="trailing" secondItem="g4h-MJ-2o4" secondAttribute="trailing" id="W6x-5R-zvQ"/>
+                            <constraint firstItem="Kk4-qj-cbQ" firstAttribute="leading" secondItem="g4h-MJ-2o4" secondAttribute="leading" id="tEV-i2-Dok"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="g4h-MJ-2o4"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FZO-ke-jk8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="760.79999999999995" y="-669.71514242878561"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="zAd-hL-kD2">
+            <objects>
+                <viewController id="VRx-hg-hlI" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="lg4-mK-xVJ">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pagi2" translatesAutoresizingMaskIntoConstraints="NO" id="EWG-rt-LJI">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="Xhs-Fn-uAe"/>
+                                    <constraint firstAttribute="width" secondItem="EWG-rt-LJI" secondAttribute="height" multiplier="375:667" id="Xzp-6K-coD"/>
+                                    <constraint firstAttribute="height" constant="667" id="aFL-PY-lu9"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Xv-cH-Qeh">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.10005700647895488" green="1" blue="0.44749605563554395" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Qan-ai-f0S" kind="modal" id="Dnh-Mf-6Fd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nwd-yu-QgX">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="gY4-Ub-COe" kind="modal" id="DqB-9k-2aR"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="xJ1-z9-Z6Z">
+                                <rect key="frame" x="16" y="58" width="343" height="596"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="xJ1-z9-Z6Z" secondAttribute="height" multiplier="343:596" id="8Ot-RK-ugB"/>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="596" id="Gx5-ig-wgy"/>
+                                    <constraint firstAttribute="height" constant="596" id="THs-Yu-GtH"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="343" id="g6K-F3-rjH"/>
+                                    <constraint firstAttribute="width" secondItem="xJ1-z9-Z6Z" secondAttribute="height" multiplier="343:596" id="ygF-H3-xx1"/>
+                                    <constraint firstAttribute="width" constant="343" id="zwd-Yt-Oez"/>
+                                </constraints>
+                                <string key="text">أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ. رَبِّ أَسْأَلُكَ خَيْرَ مَا فِيْ هَذَا الْيَوْمِ وَخَيْرَ مَا بَعْدَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّ مَا فِيْ هَذَا الْيَوْمِ وَشَرِّ مَا بَعْدَهُ، رَبِّ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَسُوْءِ الْكِبَرِ، رَبِّ أَعُوْذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ.
+                                                                      ”Kami telah memasuki waktu pagi dan kerajaan hanya milik Allah, segala puji hanya milik Allah. Tidak ada ilah yang berhak diibadahi dengan benar kecuali Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia-lah Yang Mahakuasa atas segala sesuatu. Wahai Rabb, aku mohon kepada-Mu kebaikan di hari ini dan kebaikan sesudahnya. Aku berlindung kepada-Mu dari kejahatan hari ini dan kejahatan sesudahnya. Wahai Rabb, aku berlindung kepada-Mu dari kemalasan dan kejelekan di hari tua. Wahai Rabb, aku berlindung kepada-Mu dari siksaan di Neraka dan siksaan di kubur.” (Dibaca pagi 1x)
+
+</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Nwd-yu-QgX" firstAttribute="trailing" secondItem="xJ1-z9-Z6Z" secondAttribute="trailing" id="4LZ-PK-rHF"/>
+                            <constraint firstItem="8Xv-cH-Qeh" firstAttribute="baseline" secondItem="Nwd-yu-QgX" secondAttribute="baseline" id="8j3-mi-y2H"/>
+                            <constraint firstItem="ySP-fh-jYt" firstAttribute="bottom" secondItem="xJ1-z9-Z6Z" secondAttribute="bottom" constant="13" id="AZi-zh-D9M"/>
+                            <constraint firstItem="xJ1-z9-Z6Z" firstAttribute="top" secondItem="8Xv-cH-Qeh" secondAttribute="bottom" constant="8" id="Cav-nq-jvQ"/>
+                            <constraint firstItem="xJ1-z9-Z6Z" firstAttribute="leading" secondItem="ySP-fh-jYt" secondAttribute="leading" constant="16" id="G1D-v2-0Dc"/>
+                            <constraint firstItem="xJ1-z9-Z6Z" firstAttribute="top" secondItem="8Xv-cH-Qeh" secondAttribute="bottom" constant="8" id="JiS-l7-l9A"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="8Xv-cH-Qeh" secondAttribute="trailing" constant="20" symbolic="YES" id="Qkz-Vc-vBY"/>
+                            <constraint firstItem="ySP-fh-jYt" firstAttribute="trailing" secondItem="xJ1-z9-Z6Z" secondAttribute="trailing" constant="16" id="Vt2-hZ-lar"/>
+                            <constraint firstItem="Nwd-yu-QgX" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="lg4-mK-xVJ" secondAttribute="leading" constant="20" symbolic="YES" id="avz-cL-C5A"/>
+                            <constraint firstItem="ySP-fh-jYt" firstAttribute="trailing" secondItem="xJ1-z9-Z6Z" secondAttribute="trailing" constant="16" id="e28-BC-cAO"/>
+                            <constraint firstItem="EWG-rt-LJI" firstAttribute="trailing" secondItem="ySP-fh-jYt" secondAttribute="trailing" id="lhb-Xg-0eE"/>
+                            <constraint firstItem="xJ1-z9-Z6Z" firstAttribute="leading" secondItem="ySP-fh-jYt" secondAttribute="leading" constant="16" id="omt-z6-aJM"/>
+                            <constraint firstItem="8Xv-cH-Qeh" firstAttribute="leading" secondItem="xJ1-z9-Z6Z" secondAttribute="leading" id="qBN-H0-Qmt"/>
+                            <constraint firstItem="EWG-rt-LJI" firstAttribute="leading" secondItem="ySP-fh-jYt" secondAttribute="leading" id="qgw-vp-wif"/>
+                            <constraint firstItem="EWG-rt-LJI" firstAttribute="top" secondItem="lg4-mK-xVJ" secondAttribute="top" id="s49-j5-cu0"/>
+                            <constraint firstItem="ySP-fh-jYt" firstAttribute="bottom" secondItem="xJ1-z9-Z6Z" secondAttribute="bottom" constant="13" id="tkF-On-X69"/>
+                            <constraint firstItem="EWG-rt-LJI" firstAttribute="bottom" secondItem="ySP-fh-jYt" secondAttribute="bottom" id="ufz-eE-b15"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ySP-fh-jYt"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0K1-PL-L3w" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1525.5999999999999" y="-670.61469265367316"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="dtz-fX-YiJ">
+            <objects>
+                <viewController id="gY4-Ub-COe" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5ST-RG-dZH">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pagi3" translatesAutoresizingMaskIntoConstraints="NO" id="S9d-p5-cJT">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="S9d-p5-cJT" secondAttribute="height" multiplier="375:667" id="4Eb-iB-giw"/>
+                                    <constraint firstAttribute="width" constant="375" id="eDm-eX-ejo"/>
+                                    <constraint firstAttribute="height" constant="667" id="jtJ-Yu-Uqz"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KQG-ZL-k0Q">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="63p-UF-UDg" kind="modal" id="7jc-qQ-9VF"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nGR-Kc-vj8">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="VRx-hg-hlI" kind="modal" id="ccg-cb-JKO"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="f6a-ae-00X">
+                                <rect key="frame" x="16" y="58" width="343" height="589"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="f6a-ae-00X" secondAttribute="height" multiplier="343:589" id="M71-54-YBQ"/>
+                                    <constraint firstAttribute="width" constant="343" id="MHg-mR-EpB"/>
+                                    <constraint firstAttribute="height" constant="589" id="tB9-Qv-fv3"/>
+                                </constraints>
+                                <string key="text"> اَللَّهُمَّ بِكَ أَصْبَحْنَا، وَبِكَ أَمْسَيْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوْتُ وَإِلَيْكَ النُّشُوْرُ
+                                                                       “Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu sore. Dengan rahmat dan kehendak-Mu kami hidup dan dengan rahmat dan kehendak-Mu kami mati. Dan kepada-Mu kebangkitan (bagi semua makhluk).” (Dibaca pagi 1x)                
+                                                                    اَللَّهُمَّ أَنْتَ رَبِّيْ لاَ إِلَـهَ إِلاَّ أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ
+                                                                     “Ya Allah, Engkau adalah Rabb-ku, tidak ada Ilah (yang berhak diibadahi dengan benar) kecuali Engkau, Engkau-lah yang menciptakanku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan (apa) yang kuperbuat. Aku mengakui nikmat-Mu (yang diberikan) kepadaku dan aku mengakui dosaku, oleh karena itu, ampunilah aku. Sesungguhnya tidak ada yang dapat mengampuni dosa kecuali Engkau.” (Dibaca 1x)
+ </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="S9d-p5-cJT" firstAttribute="top" secondItem="5ST-RG-dZH" secondAttribute="top" id="1QG-Xr-nAM"/>
+                            <constraint firstItem="S9d-p5-cJT" firstAttribute="bottom" secondItem="Nme-Qn-bCc" secondAttribute="bottom" id="9E7-lG-FNd"/>
+                            <constraint firstItem="Nme-Qn-bCc" firstAttribute="trailing" secondItem="f6a-ae-00X" secondAttribute="trailing" constant="16" id="BwL-tc-5uT"/>
+                            <constraint firstItem="KQG-ZL-k0Q" firstAttribute="top" secondItem="Nme-Qn-bCc" secondAttribute="top" id="FAv-ge-ivq"/>
+                            <constraint firstItem="S9d-p5-cJT" firstAttribute="leading" secondItem="Nme-Qn-bCc" secondAttribute="leading" id="GDC-VF-cj7"/>
+                            <constraint firstItem="KQG-ZL-k0Q" firstAttribute="trailing" secondItem="f6a-ae-00X" secondAttribute="trailing" id="GVA-dp-cu6"/>
+                            <constraint firstItem="S9d-p5-cJT" firstAttribute="trailing" secondItem="Nme-Qn-bCc" secondAttribute="trailing" id="Hbo-14-RjP"/>
+                            <constraint firstItem="KQG-ZL-k0Q" firstAttribute="baseline" secondItem="nGR-Kc-vj8" secondAttribute="firstBaseline" id="L4G-bL-qG1"/>
+                            <constraint firstItem="KQG-ZL-k0Q" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="5ST-RG-dZH" secondAttribute="leading" constant="20" symbolic="YES" id="gsf-Zz-Bw6"/>
+                            <constraint firstItem="Nme-Qn-bCc" firstAttribute="bottom" secondItem="f6a-ae-00X" secondAttribute="bottom" constant="20" id="hPk-J5-RHm"/>
+                            <constraint firstItem="f6a-ae-00X" firstAttribute="leading" secondItem="Nme-Qn-bCc" secondAttribute="leading" constant="16" id="lUu-LM-E93"/>
+                            <constraint firstItem="nGR-Kc-vj8" firstAttribute="leading" secondItem="f6a-ae-00X" secondAttribute="leading" id="mTy-jC-yCR"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="nGR-Kc-vj8" secondAttribute="trailing" constant="20" symbolic="YES" id="o7z-eP-qNT"/>
+                            <constraint firstItem="KQG-ZL-k0Q" firstAttribute="top" secondItem="nGR-Kc-vj8" secondAttribute="top" id="tCj-9e-hcl"/>
+                            <constraint firstItem="f6a-ae-00X" firstAttribute="top" secondItem="KQG-ZL-k0Q" secondAttribute="bottom" constant="8" id="v6k-va-afI"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Nme-Qn-bCc"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="pMq-Xu-elt" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2336.8000000000002" y="-671.51424287856082"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="fJu-E8-nEx">
+            <objects>
+                <viewController id="63p-UF-UDg" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="hN6-xO-HoK">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flower" translatesAutoresizingMaskIntoConstraints="NO" id="kfV-gZ-CZB">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="667" id="S0l-bc-G01"/>
+                                    <constraint firstAttribute="width" secondItem="kfV-gZ-CZB" secondAttribute="height" multiplier="375:667" id="xgB-Yd-D18"/>
+                                    <constraint firstAttribute="width" constant="375" id="xwh-U2-Sa0"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BxN-xU-o5c">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="gY4-Ub-COe" kind="modal" id="84X-ph-PKj"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cIM-RV-OH1">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="SQ1-7q-Ots" kind="modal" id="kLH-Yd-axb"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="sNb-qj-raT">
+                                <rect key="frame" x="16" y="105" width="343" height="470"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">اَللَّهُمَّ عَافِنِيْ فِيْ بَدَنِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ سَمْعِيْ، اَللَّهُمَّ عَافِنِيْ فِيْ بَصَرِيْ، لاَ إِلَـهَ إِلاَّ أَنْتَ. اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لاَ إِلَـهَ إِلاَّ أَنْتَ
+                                                                    “Ya Allah, selamatkanlah tubuhku (dari penyakit dan dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah pendengaranku (dari penyakit dan maksiat atau dari apa yang tidak aku inginkan). Ya Allah, selamatkanlah penglihatanku, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau.” (Dibaca 3x)
+ </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="kfV-gZ-CZB" firstAttribute="top" secondItem="hN6-xO-HoK" secondAttribute="top" id="99X-Hu-eMd"/>
+                            <constraint firstItem="kfV-gZ-CZB" firstAttribute="leading" secondItem="VjU-ag-XRr" secondAttribute="leading" id="kvg-2L-702"/>
+                            <constraint firstItem="kfV-gZ-CZB" firstAttribute="bottom" secondItem="VjU-ag-XRr" secondAttribute="bottom" id="trG-eE-FiB"/>
+                            <constraint firstItem="kfV-gZ-CZB" firstAttribute="trailing" secondItem="VjU-ag-XRr" secondAttribute="trailing" id="xxN-uC-3fJ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="VjU-ag-XRr"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="DE2-lJ-ynz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3128.8000000000002" y="-672.41379310344837"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="8G3-aJ-TFu">
+            <objects>
+                <viewController id="SQ1-7q-Ots" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="LeZ-eL-dE5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pink" translatesAutoresizingMaskIntoConstraints="NO" id="jI5-M7-7JP">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="jI5-M7-7JP" secondAttribute="height" multiplier="375:667" id="1vc-Eb-1S5"/>
+                                    <constraint firstAttribute="height" constant="667" id="TEU-hz-sjt"/>
+                                    <constraint firstAttribute="width" constant="375" id="sax-kh-Ecb"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SGt-3N-GB5">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="63p-UF-UDg" kind="modal" id="qWO-yE-e0s"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vdh-GV-NjN">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="t6q-Pk-oiW" kind="modal" id="q8O-N3-2pv"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="v1v-IY-ZOn">
+                                <rect key="frame" x="16" y="81" width="343" height="532"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَاْلآخِرَةِ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِيْنِيْ وَدُنْيَايَ وَأَهْلِيْ وَمَالِيْ اللَّهُمَّ اسْتُرْ عَوْرَاتِى وَآمِنْ رَوْعَاتِى. اَللَّهُمَّ احْفَظْنِيْ مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِيْ، وَعَنْ يَمِيْنِيْ وَعَنْ شِمَالِيْ، وَمِنْ فَوْقِيْ، وَأَعُوْذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِيْ
+                                                                        “Ya Allah, sesungguhnya aku memohon kebajikan dan keselamatan di dunia dan akhirat. Ya Allah, sesungguhnya aku memohon kebajikan dan keselamatan dalam agama, dunia, keluarga dan hartaku. Ya Allah, tutupilah auratku (aib dan sesuatu yang tidak layak dilihat orang) dan tentramkan-lah aku dari rasa takut. Ya Allah, peliharalah aku dari depan, belakang, kanan, kiri dan dari atasku. Aku berlindung dengan kebesaran-Mu, agar aku tidak disambar dari bawahku (aku berlindung dari dibenamkan ke dalam bumi).”(Dibaca1x)
+
+
+ </string>
+                                <color key="textColor" red="0.016453950137336304" green="1" blue="0.61670218534549781" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="jI5-M7-7JP" firstAttribute="trailing" secondItem="mOd-MP-vAI" secondAttribute="trailing" id="Qxo-Wj-Px1"/>
+                            <constraint firstItem="jI5-M7-7JP" firstAttribute="top" secondItem="LeZ-eL-dE5" secondAttribute="top" id="Ux6-Pa-Gxw"/>
+                            <constraint firstItem="jI5-M7-7JP" firstAttribute="bottom" secondItem="mOd-MP-vAI" secondAttribute="bottom" id="eF0-37-77D"/>
+                            <constraint firstItem="jI5-M7-7JP" firstAttribute="leading" secondItem="mOd-MP-vAI" secondAttribute="leading" id="hPk-hO-jRG"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="mOd-MP-vAI"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="UKk-69-75K" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3917.5999999999999" y="-672.41379310344837"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="ErP-Xs-xAy">
+            <objects>
+                <viewController id="t6q-Pk-oiW" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="kpp-v1-ejC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="rose" translatesAutoresizingMaskIntoConstraints="NO" id="k2A-26-2Ai">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="1Uz-Bz-HGl"/>
+                                    <constraint firstAttribute="height" constant="667" id="Rze-Rn-0XI"/>
+                                    <constraint firstAttribute="width" secondItem="k2A-26-2Ai" secondAttribute="height" multiplier="375:667" id="lsT-2I-vFE"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d7n-Lo-alr">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="6LE-ia-aoz" kind="modal" id="Nc4-kV-Mfy"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J95-Uc-37T">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="SQ1-7q-Ots" kind="modal" id="gen-IE-rq5"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="c1I-T1-hyW">
+                                <rect key="frame" x="16" y="128" width="343" height="486"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="c1I-T1-hyW" secondAttribute="height" multiplier="343:486" id="Txb-K8-1pt"/>
+                                    <constraint firstAttribute="height" constant="486" id="gAv-81-ZKU"/>
+                                    <constraint firstAttribute="width" constant="343" id="yrE-Tn-kHI"/>
+                                </constraints>
+                                <string key="text">اَللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ فَاطِرَ السَّمَاوَاتِ وَاْلأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيْكَهُ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَعُوْذُ بِكَ مِنْ شَرِّ نَفْسِيْ، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوْءًا أَوْ أَجُرُّهُ إِلَى مُسْلِمٍ
+                                                                    “Ya Allah Yang Mahamengetahui yang ghaib dan yang nyata, wahai Rabb Pencipta langit dan bumi, Rabb atas segala sesuatu dan Yang Merajainya. Aku bersaksi bahwa tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Aku berlindung kepada-Mu dari kejahatan diriku, syaitan dan ajakannya menyekutukan Allah (aku berlindung kepada-Mu) dari berbuat kejelekan atas diriku atau mendorong seorang muslim kepadanya.” (Dibaca 1x)
+
+</string>
+                                <color key="textColor" red="0.10180791053712013" green="1" blue="0.3879754297998268" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="d7n-Lo-alr" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="kpp-v1-ejC" secondAttribute="leading" constant="20" symbolic="YES" id="3vE-wb-B5s"/>
+                            <constraint firstItem="k2A-26-2Ai" firstAttribute="top" secondItem="kpp-v1-ejC" secondAttribute="top" id="5ag-yk-F2M"/>
+                            <constraint firstItem="J95-Uc-37T" firstAttribute="leading" secondItem="c1I-T1-hyW" secondAttribute="leading" id="6Bb-jy-2Nt"/>
+                            <constraint firstItem="k2A-26-2Ai" firstAttribute="bottom" secondItem="ha5-IN-XgM" secondAttribute="bottom" id="7eF-4r-WqM"/>
+                            <constraint firstItem="c1I-T1-hyW" firstAttribute="top" secondItem="d7n-Lo-alr" secondAttribute="bottom" constant="78" id="AsT-jI-p8v"/>
+                            <constraint firstItem="ha5-IN-XgM" firstAttribute="trailing" secondItem="c1I-T1-hyW" secondAttribute="trailing" constant="16" id="Cpo-vB-PTA"/>
+                            <constraint firstItem="d7n-Lo-alr" firstAttribute="trailing" secondItem="c1I-T1-hyW" secondAttribute="trailing" id="Dpr-ao-lna"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="J95-Uc-37T" secondAttribute="trailing" constant="20" symbolic="YES" id="EV7-ea-lM8"/>
+                            <constraint firstItem="d7n-Lo-alr" firstAttribute="baseline" secondItem="J95-Uc-37T" secondAttribute="baseline" id="GTM-gj-cGZ"/>
+                            <constraint firstItem="k2A-26-2Ai" firstAttribute="leading" secondItem="ha5-IN-XgM" secondAttribute="leading" id="geY-79-G9B"/>
+                            <constraint firstItem="ha5-IN-XgM" firstAttribute="bottom" secondItem="c1I-T1-hyW" secondAttribute="bottom" constant="53" id="h1c-dI-2KL"/>
+                            <constraint firstItem="c1I-T1-hyW" firstAttribute="leading" secondItem="ha5-IN-XgM" secondAttribute="leading" constant="16" id="kNK-nO-bZd"/>
+                            <constraint firstItem="k2A-26-2Ai" firstAttribute="trailing" secondItem="ha5-IN-XgM" secondAttribute="trailing" id="ljh-M3-pY2"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ha5-IN-XgM"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Ov-QW-dXj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4668" y="-672.41379310344837"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="z5i-dR-aXx">
+            <objects>
+                <viewController id="6LE-ia-aoz" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3kS-qf-Pv0">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="roses" translatesAutoresizingMaskIntoConstraints="NO" id="24q-J2-Emw">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="Xs5-El-kiE"/>
+                                    <constraint firstAttribute="height" constant="667" id="css-ce-MDJ"/>
+                                    <constraint firstAttribute="width" secondItem="24q-J2-Emw" secondAttribute="height" multiplier="375:667" id="kEi-Pg-rNH"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PZt-30-roU">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="LOP-0a-sOi" kind="modal" id="hi5-SO-Gk6"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ldF-Hi-MnK">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="t6q-Pk-oiW" kind="modal" id="QXh-og-EUw"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="PdS-c7-8Uv">
+                                <rect key="frame" x="16" y="120" width="343" height="476"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">بِسْمِ اللهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي اْلأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيْعُ الْعَلِيْمُ
+                                                               “Dengan Menyebut Nama Allah, yang dengan Nama-Nya tidak ada satupun yang membahayakan, baik di bumi maupun dilangit. Dia-lah Yang Mahamendengar dan Maha mengetahui.” (Dibaca 3x)
+
+رَضِيْتُ بِاللهِ رَبًّا، وَبِاْلإِسْلاَمِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا
+                                                                     “Aku rela (ridha) Allah sebagai Rabb-ku (untukku dan orang lain), Islam sebagai agamaku dan Muhammad صلي الله عليه وسلم sebagai Nabiku (yang diutus oleh Allah).” (Dibaca 3x)
+
+ </string>
+                                <color key="textColor" red="0.0" green="1" blue="0.093641497320862577" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="24q-J2-Emw" firstAttribute="top" secondItem="3kS-qf-Pv0" secondAttribute="top" id="6ve-qy-FdL"/>
+                            <constraint firstItem="24q-J2-Emw" firstAttribute="bottom" secondItem="3bb-l7-f41" secondAttribute="bottom" id="dk8-gf-zuJ"/>
+                            <constraint firstItem="24q-J2-Emw" firstAttribute="leading" secondItem="3bb-l7-f41" secondAttribute="leading" id="eKD-OR-sY5"/>
+                            <constraint firstItem="24q-J2-Emw" firstAttribute="trailing" secondItem="3bb-l7-f41" secondAttribute="trailing" id="jBI-fV-1jr"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="3bb-l7-f41"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="wSp-Qd-q7K" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="5396" y="-672.41379310344837"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="y9k-Jw-ydM">
+            <objects>
+                <viewController id="LOP-0a-sOi" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="7Ai-DK-Jis">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="rainbow?" translatesAutoresizingMaskIntoConstraints="NO" id="VjJ-jg-Vn0">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="667" id="5Qt-BK-utj"/>
+                                    <constraint firstAttribute="width" constant="375" id="95R-I1-Es8"/>
+                                    <constraint firstAttribute="width" secondItem="VjJ-jg-Vn0" secondAttribute="height" multiplier="375:667" id="osw-GY-NDr"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ffl-Is-mSH">
+                                <rect key="frame" x="327" y="20" width="32" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Next">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Ckp-oA-ku7" kind="modal" id="dOp-p6-Jgr"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cs4-OQ-e6t">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="6LE-ia-aoz" kind="modal" id="iHw-cA-oQd"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="0n2-Vp-3cb">
+                                <rect key="frame" x="16" y="84" width="343" height="540"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">يَا حَيُّ يَا قَيُّوْمُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لِيْ شَأْنِيْ كُلَّهُ وَلاَ تَكِلْنِيْ إِلَى نَفْسِيْ طَرْفَةَ عَيْنٍ
+                                                                                 “Wahai Rabb Yang Maha hidup, Wahai Rabb Yang Maha berdiri sendiri (tidak butuh segala sesuatu) dengan rahmat-Mu aku meminta pertolongan, perbaikilah segala urusanku dan jangan diserahkan (urusanku) kepada diriku sendiri meskipun hanya sekejap mata (tanpa mendapat pertolongan dari-Mu).” (Dibaca pagi dan sore 1x)
+                                                 
+أَصْبَحْنَا عَلَى فِطْرَةِ اْلإِسْلاَمِ وَعَلَى كَلِمَةِ اْلإِخْلاَصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِيْنَا إِبْرَاهِيْمَ، حَنِيْفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِيْنَ
+                                                                                        “Di waktu pagi kami berada diatas fitrah agama Islam, kalimat ikhlas, agama Nabi kami Muhammad صلي الله عليه وسلم dan agama ayah kami, Ibrahim, yang berdiri di atas jalan yang lurus, muslim dan tidak tergolong orang-orang musyrik.” (Dibaca  1x)
+
+لاَ إِلَـهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرُ.
+                                                                                          “Tidak ada Ilah yang berhak diibadahi dengan benar selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala puji. Dan Dia Mahakuasa atas segala sesuatu.” (Dibaca 10x [15] atau dibaca 1x)
+
+</string>
+                                <color key="textColor" red="0.00014873206001719819" green="1" blue="0.0002307343755628688" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="VjJ-jg-Vn0" firstAttribute="trailing" secondItem="De7-0S-en0" secondAttribute="trailing" id="gB9-dW-Pm5"/>
+                            <constraint firstItem="VjJ-jg-Vn0" firstAttribute="bottom" secondItem="De7-0S-en0" secondAttribute="bottom" id="rMV-Ub-ks8"/>
+                            <constraint firstItem="VjJ-jg-Vn0" firstAttribute="leading" secondItem="De7-0S-en0" secondAttribute="leading" id="ui5-4V-9pj"/>
+                            <constraint firstItem="VjJ-jg-Vn0" firstAttribute="top" secondItem="7Ai-DK-Jis" secondAttribute="top" id="z5T-dq-iWT"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="De7-0S-en0"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="VtD-wV-v6g" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6164" y="-671.51424287856082"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="g3Y-Bw-6H0">
+            <objects>
+                <viewController id="Ckp-oA-ku7" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Lcy-90-aK5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="rocks" translatesAutoresizingMaskIntoConstraints="NO" id="rBx-e9-eQ7">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="375" id="Q4y-yP-9hU"/>
+                                    <constraint firstAttribute="width" secondItem="rBx-e9-eQ7" secondAttribute="height" multiplier="375:667" id="cm1-TG-b3j"/>
+                                    <constraint firstAttribute="height" constant="667" id="voz-h4-3Zm"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XfS-qH-frY">
+                                <rect key="frame" x="16" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1000570065" green="1" blue="0.4474960556" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="LOP-0a-sOi" kind="modal" id="TiT-II-Aig"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="S5a-rN-Trh">
+                                <rect key="frame" x="16" y="58" width="343" height="589"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text"> سُبْحَانَ اللهِ وَبِحَمْدِهِ: عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ
+                                                                         “Mahasuci Allah, aku memuji-Nya sebanyak bilangan makhluk-Nya, Mahasuci Allah sesuai ke-ridhaan-Nya, Mahasuci seberat timbangan ‘Arsy-Nya, dan Mahasuci sebanyak tinta (yang menulis) kalimat-Nya.”(Dibaca pagi 3x)
+
+ اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلاً مُتَقَبَّلاً
+                                                  “Ya Allah, sesungguhnya aku meminta kepada-Mu ilmu yang bermanfaat, rizki yang halal, dan amalan yang diterima.” (Dibaca pagi 1x
+
+ 
+ سُبْحَانَ اللهِ وَبِحَمْدِهِ
+                                          “Mahasuci Allah, aku memuji-Nya.” (Dibaca pagi dan sore 100x)
+
+ 
+ أَسْتَغْفِرُ اللهَ وَأَتُوْبُ إِلَيْهِ
+
+ 
+ “Aku memohon ampunan kepada Allah dan bertaubat kepada-Nya.” (Dibaca setiap hari 100x)
+
+
+ </string>
+                                <color key="textColor" red="0.0" green="1" blue="0.035871585688039165" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9fg-xt-bnR">
+                                <rect key="frame" x="155" y="549" width="65" height="41"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Menu">
+                                    <color key="titleColor" red="0.081325991070000006" green="1" blue="0.43609505500000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <segue destination="BYZ-38-t0r" kind="modal" id="ACJ-rV-Py2"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="rBx-e9-eQ7" firstAttribute="top" secondItem="Lcy-90-aK5" secondAttribute="top" id="EFF-VO-hyN"/>
+                            <constraint firstItem="rBx-e9-eQ7" firstAttribute="leading" secondItem="iJR-SI-RkB" secondAttribute="leading" id="EOZ-ac-6Qj"/>
+                            <constraint firstItem="rBx-e9-eQ7" firstAttribute="bottom" secondItem="iJR-SI-RkB" secondAttribute="bottom" id="LRw-jl-A4D"/>
+                            <constraint firstItem="rBx-e9-eQ7" firstAttribute="trailing" secondItem="iJR-SI-RkB" secondAttribute="trailing" id="UOx-j2-Eep"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="iJR-SI-RkB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dfV-uu-EES" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="6949.6000000000004" y="-670.61469265367316"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="1" width="332" height="495"/>
+        <image name="12" width="225" height="170"/>
+        <image name="2" width="330" height="467"/>
+        <image name="Alhamdulillah" width="225" height="225"/>
+        <image name="AllahuAkbar" width="317" height="159"/>
+        <image name="Jepretan Layar 2017-10-27 pada 13.00.09" width="331" height="439"/>
+        <image name="Jepretan Layar 2017-10-27 pada 13.02.25" width="328" height="496"/>
+        <image name="Subhanallah" width="259" height="194"/>
+        <image name="flower" width="330" height="588"/>
+        <image name="kakbah" width="332" height="493"/>
+        <image name="nil" width="960" height="563"/>
+        <image name="nunchaku2" width="960" height="720"/>
+        <image name="pagi1" width="332" height="442"/>
+        <image name="pagi2" width="240" height="409"/>
+        <image name="pagi3" width="332" height="568"/>
+        <image name="pink" width="330" height="498"/>
+        <image name="rainbow?" width="330" height="495"/>
+        <image name="rocks" width="331" height="441"/>
+        <image name="rose" width="424" height="493"/>
+        <image name="roses" width="330" height="585"/>
+        <image name="sore" width="331" height="496"/>
+    </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="hi5-SO-Gk6"/>
+        <segue reference="Nc4-kV-Mfy"/>
+        <segue reference="QXh-og-EUw"/>
+        <segue reference="gen-IE-rq5"/>
+        <segue reference="qWO-yE-e0s"/>
+        <segue reference="DqB-9k-2aR"/>
+        <segue reference="DxC-Dl-lVd"/>
+        <segue reference="Bzg-FR-y7D"/>
+        <segue reference="Vtx-BF-z8b"/>
+        <segue reference="cpm-Vz-gbQ"/>
+        <segue reference="Wo2-eP-QFM"/>
+        <segue reference="3Sz-lo-ngh"/>
+        <segue reference="1mC-4a-iO0"/>
+    </inferredMetricsTieBreakers>
+</document>
